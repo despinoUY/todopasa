@@ -11,15 +11,15 @@
 		<language>{{ site.lang }}</language>
 		<itunes:subtitle>{{ site.subtitle | xml_escape }}</itunes:subtitle>
         <itunes:author>{{ site.author }}</itunes:author>
-		<itunes:summary>{{ site.description-coqueto | xml_escape }}</itunes:summary>
-        <description>{{ site.description-coqueto | xml_escape }}</description>
+		<itunes:summary>{{ site.description-musica | xml_escape }}</itunes:summary>
+        <description>{{ site.description-musica | xml_escape }}</description>
 		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
         <itunes:owner>
 			<itunes:name>{{ site.author }}</itunes:name>
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
         <itunes:image href="{{ site.url }}{{ site.baseurl }}/images/coqueto.png" />
-		<itunes:category text="Humor" />
+		<itunes:category text="Música" />
     <itunes:explicit>no</itunes:explicit>
 
 {% for post in site.posts %}
