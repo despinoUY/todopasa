@@ -9,7 +9,3 @@ file: "https://audios.oceanofm.com/programas/TodoPasa/19-04-052amaanabloque5Coqu
 duration: "27:52"
 oceanourl: "https://oceano.uy/todopasa/coqueto-escenario/16810-viernes-de-picaros"
 ---
-
-### Viernes de pícaros
-
-Un programa especial, bien loco, con Adusto yendo por sitios inexplorados. Desde el siniestro plan del Frente Amplio para ganar, el joven que se tatuó la cola de Sol Pérez, la nueva moda del Swatting, las bobadas de Alex Caniggia y las respuestas a las preguntas de Guido Kazka.
