@@ -13,9 +13,9 @@
         <itunes:author>{{ site.author }}</itunes:author>
 		<itunes:summary>{{ site.description-coqueto | xml_escape }}</itunes:summary>
         <description>{{ site.description-coqueto | xml_escape }}</description>
-		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
+		<webMaster>{{ site.email }} (Todo Pasa)</webMaster>
         <itunes:owner>
-			<itunes:name>{{ site.author }}</itunes:name>
+			<itunes:name>Todo Pasa</itunes:name>
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
         <itunes:image href="{{ site.url }}{{ site.baseurl }}/images/coqueto.png" />
