@@ -18,7 +18,7 @@
     			<itunes:name>Todo Pasa</itunes:name>
     			<itunes:email>{{ site.email }}</itunes:email>
     		</itunes:owner>
-        <itunes:image href="{{ site.url }}{{ site.baseurl }}/images/cesar.png" />
+        <itunes:image href="{{ site.url }}{{ site.baseurl }}/images/cesar-new.png" />
 		<itunes:category text="Música" />
     <itunes:explicit>no</itunes:explicit>
 
