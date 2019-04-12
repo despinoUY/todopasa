@@ -1,0 +1,12 @@
+---
+layout: post
+category: "Coqueto Escenario"
+date:   2019-04-12 11:30:00 -0300
+title:  "Ya sabes"
+image: "https://oceano.uy/api/images/programas/TodoPasa/vuelven.PNG"
+summary: "Viernes en la hora de Lubo Adusto Freire que analizó la nueva tendencia de los jóvenes en redes: el \"orbiting\". Además analizó el discurso en inglés de un afamado colega."
+file: "https://audios.oceanofm.com/programas/TodoPasa/19-04-122amaanacoquetoescenario.mp3"
+duration: "19:57"
+oceanourl: "https://oceano.uy/todopasa/coqueto-escenario/16923-ya-sabes"
+---
+  
