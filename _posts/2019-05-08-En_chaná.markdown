@@ -1,0 +1,12 @@
+---
+layout: post
+category: "Coqueto Escenario"
+date:   2019-05-08 11:30:00 -0300
+title:  "En chaná"
+image: "https://oceano.uy/api/images/programas/TodoPasa/20190507131638185-kzzE-U462099983284Z4C-992x558LaVanguardia-Web.jpg"
+summary: "El viejo Lubo Adusto se metió con el retiro de Diego Godín como futbolista, a quien un periodista español comparó con indígenas. De yapa la modelo que tiene su propio estadio y el mercado de pases de solteras, que se mueve."
+file: "https://audios.oceanofm.com/programas/TodoPasa/19-05-082amaanaCoquetoescenario.mp3"
+duration: "18:29"
+oceanourl: "https://oceano.uy/todopasa/coqueto-escenario/17277-en-chana"
+---
+  
