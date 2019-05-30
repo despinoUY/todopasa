@@ -1,0 +1,11 @@
+<header class="site-header">
+
+  <div class="wrapper">
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+    {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+        <img class="site-logo" src="https://scontent.fmvd4-1.fna.fbcdn.net/v/t1.0-9/28685518_585997731750039_3433882921014082089_n.jpg?_nc_cat=105&_nc_ht=scontent.fmvd4-1.fna&oh=423c08dd6f5d4ab7da69a3491e9a14e1&oe=5D9FB25B" alt="{{ site.title | escape }}"/>
+    </a>
+  </div>
+</header>
