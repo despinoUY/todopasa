@@ -16,7 +16,7 @@
 title: Todo Pasa
 email: todopasa@oceano.uy
 author: Danilo Espino
-whatsapp: 093 600 051
+whatsapp: 59893600051
 description: >- # this means to ignore newlines until "baseurl:"
   Los podcasts de Todo Pasa.
 description-coqueto: >- # this means to ignore newlines until "baseurl:"
@@ -27,6 +27,7 @@ baseurl: "/todopasa" # the subpath of your site, e.g. /blog
 url: "https://despinouy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 showsite: "https://oceano.uy/todopasa"
 twitter_username: todopasaoceano
+facebook_username: todopasaoceano
 lang: es
 
 # Build settings
