@@ -16,6 +16,7 @@ layout: default
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <div class="post-category">{{ post.category }}</div>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
@@ -23,9 +24,26 @@ layout: default
         </h3>
         <div class="post-excerpt">
             <img class="post-image" src="{{ post.image }}"/>
-            <p>
-                {{ post.summary }}
-            </p>
+            <div class="post-summary">
+                <p>
+                    {{ post.summary }}
+                </p>
+                <div class="post-share-links">
+                    <i>Compartí esta nota en:</i>
+                    <div>
+                        <span><a target="_blank" href="https://www.facebook.com/sharer.php?u={{ post.oceanourl }}">
+                            <img class="social-icon" src="images/facebook-square-brands.svg"></img>
+                        </a></span>
+                        <span><a target="_blank" href="https://twitter.com/intent/tweet?url={{ post.oceanourl }}&text={{ post.title }}">
+                            <img class="social-icon" src="images/twitter-square-brands.svg"></img>
+                        </a></span>
+                        <span><a target="_blank" href="https://wa.me/?text={{ post.title}}%20{{ post.oceanourl }}">
+                            <img class="social-icon" src="images/whatsapp-square-brands.svg"></img>
+                        </a></span>
+                    </div>
+
+                </div>
+            </div>
         </div>
       </li>
       {%- endfor -%}
