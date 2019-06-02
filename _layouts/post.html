@@ -32,7 +32,7 @@ layout: default
           <span><a target="_blank" href="https://twitter.com/intent/tweet?url={{ page.oceanourl }}&text={{ page.title }}">
               <img class="social-icon" src="{{ 'images/twitter-square-brands.svg' | relative_url }}"></img>
           </a></span>
-          <span><a target="_blank" href="https://wa.me/?text={{ page.title }}%20{{ page.oceanourl }}">
+          <span><a target="_blank" href="https://wa.me/?text={{ page.title | url_encode }}%20{{ page.oceanourl | url_encode }}">
               <img class="social-icon" src="{{'images/whatsapp-square-brands.svg' | relative_url }}"></img>
           </a></span>
       </div>
