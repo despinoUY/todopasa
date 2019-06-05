@@ -20,9 +20,9 @@ whatsapp: 59893600051
 description: >- # this means to ignore newlines until "baseurl:"
   Los podcasts de Todo Pasa.
 description-coqueto: >- # this means to ignore newlines until "baseurl:"
-  Todas las columnas de Lubo Adusto Freire.
+  Espacio de variedades deportivas conducido por Lubo Adusto Freire.
 description-musica: # this means to ignore newlines until "baseurl:"
-  Todas las columnas de música de César Ernesto Sanguinetti.
+  César Sanguinetti le pone swing a las mañanas de Todo Pasa.
 baseurl: "/todopasa" # the subpath of your site, e.g. /blog
 url: "https://despinouy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 showsite: "https://oceano.uy/todopasa"
