@@ -1,3 +1,26 @@
+@font-face {
+    font-family: "Oceano Font Regular";
+    src: url("fonts/oceano-font-regular.otf") format("truetype");
+}
+
+@font-face {
+    font-family: "Oceano Font Light";
+    src: url("fonts/oceano-font-light.otf") format("truetype");
+}
+
+@font-face {
+    font-family: "Oceano Font Bold";
+    src: url("fonts/oceano-font-bold.otf") format("truetype");
+}
+
+* {
+    font-family: 'Oceano Font Regular', sans-serif;
+}
+
+h3 {
+    font-family: "Oceano Font Bold", sans-serif;
+}
+
 .site-header {
     background-color: #00c2a3;
     color: white;
@@ -55,7 +78,7 @@
 }
 
 .post-category {
-    font-style: italic;
+    font-family: "Oceano Font Light", sans-serif;
 }
 
 .post-share-links {
