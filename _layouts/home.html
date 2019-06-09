@@ -9,10 +9,14 @@ layout: default
 
   {{ content }}
 
+  {% assign posts = site.posts %}
+  {% if site.paginate %}
+    {% assign posts = paginator.posts %}
+  {% endif %}
+
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
-      {%- for post in site.posts -%}
+      {%- for post in posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -32,13 +36,13 @@ layout: default
                     <i>Compartí esta nota en:</i>
                     <div>
                         <span><a target="_blank" href="https://www.facebook.com/sharer.php?u={{ post.oceanourl }}">
-                            <img class="social-icon" src="images/facebook-square-brands.svg"></img>
+                            <img class="social-icon" src="{{ site.baseurl }}/images/facebook-square-brands.svg"></img>
                         </a></span>
                         <span><a target="_blank" href="https://twitter.com/intent/tweet?url={{ post.oceanourl }}&text={{ post.title }}">
-                            <img class="social-icon" src="images/twitter-square-brands.svg"></img>
+                            <img class="social-icon" src="{{ site.baseurl }}/images/twitter-square-brands.svg"></img>
                         </a></span>
                         <span><a target="_blank" href="https://wa.me/?text={{ post.title | url_encode }}%20{{ post.oceanourl | url_encode }}">
-                            <img class="social-icon" src="images/whatsapp-square-brands.svg"></img>
+                            <img class="social-icon" src="{{ site.baseurl }}/images/whatsapp-square-brands.svg"></img>
                         </a></span>
                     </div>
                 </div>
@@ -48,7 +52,21 @@ layout: default
       {%- endfor -%}
     </ul>
 
-    <p class="feed-subscribe"><svg class="svg-icon orange"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><a href="{{ "/feed.xml" | relative_url }}">Subscribe</a></p>
+    {% if site.paginate %}
+    <div class="pagination">
+      <div class="page_number">Página {{ paginator.page }} de {{ paginator.total_pages }}</div>
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous">&laquo; Anterior</a>
+      {% endif %}
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">Siguiente &raquo;</a>
+      {% endif %}
+    </div>
+    {% endif %}
+
+    <!--
+      <p class="feed-subscribe"><svg class="svg-icon orange"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><a href="{{ "/feed.xml" | relative_url }}">Subscribe</a></p>
+    -->
   {%- endif -%}
 
 </div>
