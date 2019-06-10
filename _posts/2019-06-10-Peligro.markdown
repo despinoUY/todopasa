@@ -1,0 +1,12 @@
+---
+layout: post
+category: "Coqueto Escenario"
+date:   2019-06-10 11:30:00 -0300
+title:  "Peligro"
+image: "https://oceano.uy/api/images/programas/TodoPasa/rayadora.PNG"
+summary: "Lubo Adusto le dedicó unos minutos a la rayadora serial que se asecha en Argentina. De yapa presentó la nueva canción de la Copa América y una anécdota de Matías Alé de cuando se hizo hincha de otro cuadro."
+file: "https://audios.oceanofm.com/programas/TodoPasa/19-06-102amaanacoquetoescenario.mp3"
+duration: "16:06"
+oceanourl: "https://oceano.uy/todopasa/coqueto-escenario/17797-peligro"
+---
+  
