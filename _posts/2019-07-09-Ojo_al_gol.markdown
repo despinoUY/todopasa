@@ -1,0 +1,12 @@
+---
+layout: post
+category: "Coqueto Escenario"
+date:   2019-07-09 11:30:00 -0300
+title:  "Ojo al gol"
+image: "https://oceano.uy/api/images/programas/TodoPasa/4aa03a8b-e345-4767-a6f3-21abb46450a7.jpg"
+summary: "Lubo Adusto apuró a Josema Caraballo con datos inquietantes. De paso, noticias insólitas, como los amigos que salieron a cazar y uno terminó con una bala en el pene. O la carta del Círculo de Periodistas Deportivos y su semántica ejemplar."
+file: "https://audios.oceanofm.com/programas/TodoPasa/19-07-092amaanaCoquetoescenario.mp3"
+duration: "30:54"
+oceanourl: "https://oceano.uy/todopasa/coqueto-escenario/18275-ojo-al-gol"
+---
+  
