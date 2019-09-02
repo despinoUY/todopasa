@@ -1,0 +1,12 @@
+---
+layout: post
+category: "Coqueto Escenario"
+date:   2019-09-02 11:30:00 -0300
+title:  "Vale todo"
+image: "https://oceano.uy/api/images/programas/TodoPasa/lubovale.PNG"
+summary: "Lubo Adusto presentó una lista de noticias insólitas, como el médico que usó la vagina de una paciente para hacer reír a sus compañeros. De yapa las españolas veganas que luchan contra los financistas de la esclavitud animal y un fin de semana muy deportivo."
+file: "https://audios.oceanofm.com/programas/TodoPasa/AdustoBloque1del2.mp3"
+duration: "14:56"
+oceanourl: "https://oceano.uy/todopasa/coqueto-escenario/19072-vale-todo"
+---
+
