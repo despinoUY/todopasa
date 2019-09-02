@@ -1,0 +1,12 @@
+---
+layout: post
+category: "Coqueto Escenario"
+date:   2019-09-02 11:45:00 -0300
+title:  "Es clásico"
+image: "https://oceano.uy/api/images/programas/TodoPasa/trindadey.jpg"
+summary: "Lubo Adusto analizó en detalle un nuevo Peñarol-Nacional, Nacional-Peñarol con medidas que se cumplieron, y otras que no. De yapa un completo #UnoXUno dedicado a los protagonistas."
+file: "https://audios.oceanofm.com/programas/TodoPasa/adustobloque2del1del2.mp3"
+duration: "10:23"
+oceanourl: "https://oceano.uy/todopasa/coqueto-escenario/19073-es-clasico"
+---
+
