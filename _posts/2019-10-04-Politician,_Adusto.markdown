@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Mirate ésta
+category: Coqueto Escenario
 date: 2019-10-04 11:30:00 -0300
 title: Politician, Adusto
 image: https://oceano.uy/api/images/programas/TodoPasa/cosasdelubo.PNG
