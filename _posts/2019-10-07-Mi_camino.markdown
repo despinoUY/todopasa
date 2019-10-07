@@ -5,7 +5,7 @@ date: 2019-10-07 11:00:00 -0300
 title: Mi camino
 image: https://oceano.uy/api/images/programas/TodoPasa/ruta40Patagonia.jpg
 summary: César Sanguinetti presentó varios piques para armar música ideal para curtir en la ruta. Desde Mumford & Sons, The Lumineers,Edward Sharpe & The Magnetic Zeros, The Strokes y Oasis
-file: https://audios.oceanofm.com/programas/TodoPasa/19-10-072amaanabloque1.mp3
-duration: 24:04
+file: https://audios.oceanofm.com/programas/19-10-072amaanaCesarconelCosquinRock.mp3
+duration: 24:52
 oceanourl: https://oceano.uy/todopasa/musica/19625-mi-camino
 ---
