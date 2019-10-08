@@ -1,0 +1,11 @@
+---
+layout: post
+category: Coqueto Escenario
+date: 2019-10-08 11:30:00 -0300
+title: A fondo
+image: https://oceano.uy/api/images/programas/TodoPasa/malelubo.PNG
+summary: Lubo Adusto Freire conoció a Malena Castaldi, con quien compartió información, como el ruso que denunció a Apple por "convertirle" en homosexual. De yapa un cuestionario a fondo, con datos íntimos
+file: https://audios.oceanofm.com/programas/TodoPasa/19-10-082amaanaMalenaCastaldiCoquetoescenario.mp3
+duration: 23:10
+oceanourl: https://oceano.uy/todopasa/coqueto-escenario/19651-a-fondo
+---
