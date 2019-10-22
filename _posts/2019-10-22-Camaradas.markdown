@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Conductor Designado
+category: Coqueto Escenario
 date: 2019-10-22 11:30:00 -0300
 title: Camaradas
 image: https://oceano.uy/api/images/programas/Foto3.jpg
