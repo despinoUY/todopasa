@@ -1,0 +1,11 @@
+---
+layout: post
+category: Coqueto Escenario
+date: 2019-10-28 11:30:00 -0300
+title: El día D
+image: https://oceano.uy/api/images/programas/TodoPasa/cosasdelubo.PNG
+summary: Lubo Adusto analizó enfáticamente lo que dejaron los resultados de las elecciones con diferentes variables en todos los partidos. Hubo ganadores, perdedores y también estuvo el pueblo. Completo análisis.
+file: https://audios.oceanofm.com/programas/TodoPasa/19-10-282amaanaCoquetoescenario.mp3
+duration: 21:18
+oceanourl: https://oceano.uy/todopasa/coqueto-escenario/19957-el-dia-d
+---
