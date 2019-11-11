@@ -1,0 +1,11 @@
+---
+layout: post
+category: Coqueto Escenario
+date: 2019-11-11 11:30:00 -0300
+title: A volar
+image: https://oceano.uy/api/images/programas/TodoPasa/croaciafutoblpollos.png
+summary: Lubo Adusto Freire se fue hasta Croacia, donde un jugador se las verá fea por patear a unos indefensos pollo. Micro político con la situación en América Latina y lo que dejó la fecha local
+file: https://audios.oceanofm.com/programas/TodoPasa/19-11-112amaanacoquetoescenario.mp3
+duration: 24:10
+oceanourl: https://oceano.uy/todopasa/coqueto-escenario/20145-a-volar
+---
