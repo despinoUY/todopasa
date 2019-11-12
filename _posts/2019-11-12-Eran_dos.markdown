@@ -1,0 +1,11 @@
+---
+layout: post
+category: Coqueto Escenario
+date: 2019-11-12 11:30:00 -0300
+title: Eran dos
+image: https://oceano.uy/api/images/programas/TodoPasa/lubiadustio.PNG
+summary: Lubo Adusto presentó una serie de noticias curiosas para ablandar al invitado, aunque le costó. De yapa un ida y vuelta sin vacilaciones
+file: https://audios.oceanofm.com/programas/TodoPasa/19-11-122amaanaNanoFollecoquetoescenario.mp3
+duration: 33:35
+oceanourl: https://oceano.uy/todopasa/coqueto-escenario/20158-eran-dos
+---
