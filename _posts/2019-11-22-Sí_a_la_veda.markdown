@@ -1,0 +1,11 @@
+---
+layout: post
+category: Coqueto Escenario
+date: 2019-11-22 11:30:00 -0300
+title: Sí a la veda
+image: https://oceano.uy/api/images/programas/TodoPasa/opaopa.PNG
+summary: Lubo Adusto al límite con la veda electoral, tuvo que elegir otra temática y fue con los animales. Historias de gatos que tienen doble vida o situaciones que se están viviendo en el fùtbol uruguayo por estas horas
+file: https://audios.oceanofm.com/programas/TodoPasa/19-11-222amaanacoquetoescenario.mp3
+duration: 27:12
+oceanourl: https://oceano.uy/todopasa/coqueto-escenario/20284-si-a-la-veda
+---
