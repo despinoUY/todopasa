@@ -1,0 +1,11 @@
+---
+layout: post
+category: Coqueto Escenario
+date: 2019-12-13 11:30:00 -0300
+title: Olor a gol
+image: https://oceano.uy/api/images/programas/TodoPasa/opaopa.PNG
+summary: Adusto comentó un sinfín de noticias disparadas y analizó la previa a la final del Uruguayo, con sus clásicas predicciones
+file: https://audios.oceanofm.com/programas/TodoPasa/19-12-132amaanacoqueto.mp3
+duration: 19:20
+oceanourl: https://oceano.uy/todopasa/coqueto-escenario/20529-olor-a-gol
+---
