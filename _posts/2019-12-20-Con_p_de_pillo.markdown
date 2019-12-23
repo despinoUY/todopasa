@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Coqueto Escenario
-date: 2019-12-20 11:00:00 -0300
+date: 2019-12-20 11:30:00 -0300
 title: Con p de pillo
 image: https://oceano.uy/api/images/programas/TodoPasa/IMG4411.jpg
 summary: 
