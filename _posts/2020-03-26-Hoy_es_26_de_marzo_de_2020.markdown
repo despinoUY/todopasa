@@ -1,0 +1,11 @@
+---
+layout: post
+category: Coqueto Escenario
+date: 2020-03-26 11:30:00 -0300
+title: Hoy es 26 de marzo de 2020
+image: https://oceano.uy/api/images/programas/TodoPasa/IMG4411.jpg
+summary: El viejo celebró un nuevo aniversario de vida rodeado de los suyos. No faltaron las noticias insólitas y más del ciclo de Corona Virus, y el anuncio inminente de la caída de Pandemia en la Torre
+file: https://audios.oceanofm.com/programas/Abrepalabra/20-03-26Adusto.mp3
+duration: 32:28
+oceanourl: https://oceano.uy/abrepalabra/coqueto-escenario/21243-hoy-es-26-de-marzo-de-2020
+---
