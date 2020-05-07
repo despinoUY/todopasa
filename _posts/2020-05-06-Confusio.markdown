@@ -1,0 +1,11 @@
+---
+layout: post
+category: Coqueto Escenario
+date: 2020-05-06 11:30:00 -0300
+title: Confusio
+image: https://oceano.uy/api/images/programas/Abrepalabra/orelosecan.png
+summary: Lubo Adusto y una edición especial con el mensaje de Sotelo, la carta del sindicato y los dichos del ahora director de los medios públicos. De yapa, una imperdible entrevista con Gerardo Boca Arias con conceptos inquietantes y con una defensa firme a la calla
+file: https://audios.oceanofm.com/programas/Abrepalabra/20-05-06Coqueto.mp3
+duration: 27:37
+oceanourl: https://oceano.uy/abrepalabra/coqueto-escenario/21650-confusio
+---
