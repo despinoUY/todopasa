@@ -1,6 +1,12 @@
 ---
 
 ---
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to Anchor</title>
+<meta http-equiv="refresh" content="0; URL=https://anchor.fm/s/2754a05c/podcast/rss">
+
+<!--
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}">
 
@@ -41,4 +47,5 @@
   {% endif %}
 {% endfor %}
 	</channel>
-</rss>
+	</rss>
+-->
