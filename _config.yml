@@ -36,6 +36,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-redirect-from
 paginate: 3
 paginate_path: "/page-:num/"
 
